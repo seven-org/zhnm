@@ -1,0 +1,15 @@
+@import "/static/lib/weui.min.wxss";
+@import "/static/css/style.wxss";
+@import "/static/css/showTip.wxss";
+.kefu{
+ -webkit-appearance:none;
+ border-radius:0px
+
+}
+.kefu::after{
+ border-right: none;
+  border-radius:0px
+}
+img{
+  width:100%
+}

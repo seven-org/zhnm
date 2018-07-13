@@ -1,0 +1,6 @@
+@import "../../static/css/style.wxss";
+@import "../../static/lib/weui.min.wxss";
+@import "../../static/css/jquery-weui.wxss";
+/* input{
+  min-height:45rpx;
+} */

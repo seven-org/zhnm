@@ -1,0 +1,6 @@
+/* pages/index/index.wxss */
+@import "../../static/css/style.wxss";
+@import "/static/lib/weui.wxss";
+@import "../../static/css/jquery-weui.wxss";
+
+
